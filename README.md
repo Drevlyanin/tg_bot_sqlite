@@ -19,4 +19,4 @@ The bot also creates an inline keyboard with a button that, when clicked, retrie
 
 The bot continuously polls the Telegram API for new messages and callbacks, and responds to them accordingly.
 
-Overall, this code demonstrates how to use the Telebot library to create a basic Telegram bot with user registration and database integration.
+
