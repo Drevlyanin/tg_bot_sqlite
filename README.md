@@ -15,4 +15,3 @@ The bot is created using a token provided by Telegram, which is used to authenti
 
 Once the user enters their name, the bot stores the name in a global variable and prompts the user to enter their password. When the user enters their password, the bot inserts the user's name and password into the 'USERS' table of the SQLite database.
 
-The bot also creates an inline keyboard with a button that, when clicked, retrieves a list of all registered users from the database and sends it back to the user.
